@@ -1,0 +1,18 @@
+body{
+    background-color: darkgreen;
+}
+
+#content{
+    max-width: 70%;
+    background-color: grey;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#photo\ header{
+    text-align: center;
+}
+
+#photo\ container{
+    text-align: center;
+}
